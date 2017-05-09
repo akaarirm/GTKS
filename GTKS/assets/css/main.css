@@ -1,0 +1,858 @@
+.full {
+	position: relative;
+	width: 100%;
+}
+
+
+/* -------- Home Page -------- */
+/* --------------------------- */
+
+
+
+/* -------- header -------- */
+
+#head	{
+	height: 799px;
+	background-image: url(../img/layer_3.png);
+	background-attachment: fixed;
+}
+
+header {
+	height: 133px;
+}
+
+#logo_div {
+	width: 142px;
+}
+
+#logo_link {
+	background-image: url(../img/logo.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	padding-top: 80px;
+  	margin-top: 53px;
+}
+
+#nav_bar {
+	padding-left: 160px;
+	margin-left: 0px;
+	padding-top: 83px;
+}
+
+#nav_bar ul {
+  	height: 44px;
+  	width: 429px;
+  	padding-left: 0px;
+}
+
+#nav_bar ul a li {
+	float: left;
+	display: inline-block;
+	margin-left: 31px;
+	font-family: "Raleway-Bold";
+}
+
+#nav_bar ul a {
+	color: white;
+	font-family: "Raleway-Bold";
+	font-size: 14px;
+}
+
+#click_nav {
+	color: #ffac32;	
+}
+
+
+/* -------- hero -------- */
+
+
+#hero {
+	height: 667px;
+	background-image: url(../img/arrow_down.png);
+	background-repeat: no-repeat;
+	background-position: 635px 585px;
+}
+
+#the_leader {
+	padding-top: 300px;
+}
+
+#the_leader p {
+	font-family: "UtopiaStd-Disp";
+	font-size: 45px;
+	color: white;
+}
+
+#learn_more a{
+	color: #ffac32;
+}
+
+#learn_more p{
+	font-size: 14px;
+	font-family: "Raleway-Bold";
+	color: #ffac32;
+	text-decoration: none;
+}
+
+
+/* -------- nutshell -------- */
+
+
+#nutshell {
+	height: 670px;
+	background-image: url(../img/logo_in_nutshell.png),url(../img/person_in_nutshell.png);
+	background-repeat: no-repeat;
+	background-position: -42px 131px,-178px -805px;
+}
+
+#nutshell_title {
+  	padding-top: 209px;
+}
+
+#nutshell_title p {
+	font-size: 45px;
+	font-family: "UtopiaStd-Disp";
+	color: #005a8e;
+}
+
+#we_specialize p {
+	font-size: 14px;
+	font-family: "Raleway-Medium";
+	color: #595959;
+}
+
+#see_our_mission {
+	width: 725px;
+  	padding-top: 19px;	
+}
+
+#see_our_mission a {
+	color: #ffac32;
+}
+
+#see_our_mission p{
+	font-size: 14px;
+	font-family: "Raleway-Bold";
+	color: #ffac32;
+	text-decoration: none;
+}
+
+#vector_smart {
+	z-index: 9999999;
+	position: absolute !important;
+  	margin-left: 0px;
+  	margin-top: 0px;
+   	padding-top: 155px;
+  	padding-left: 617px;
+}
+
+
+/* -------- what we do -------- */
+
+
+#what_we_do {
+	height: 500px;
+	background-color: #e0e0e0;
+	background-image: url(../img/hexas.png);
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
+}
+
+
+#what_we_do_title {
+  	padding-top: 128px;
+}
+
+#what_we_do_title p{
+	font-size: 45px;
+	font-family: "UtopiaStd-Disp";
+	color: #005a8e;
+}
+
+#at_gtks p {
+	font-size: 14px;
+	font-family: "Raleway-Medium";
+	color: #595959;
+}
+
+#see_our_services {
+  	padding-top: 19px;	
+  	width: 177px;
+}
+
+#see_our_services a {
+	color: #ffac32;
+}
+
+#see_our_services p{
+	font-size: 14px;
+	font-family: "Raleway-Bold";
+	color: #ffac32;
+	text-decoration: none;
+}
+
+/* -------- testimonial -------- */
+
+
+#testimonial {
+	height: 500px;
+}
+
+#testimonial_line {
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 141;
+}
+
+#testimonial_line p {
+	font-size: 24px;
+	font-family: "UtopiaStd-Disp";
+	color: #808285;
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+#client_fullname {
+	padding-top: 47px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#clientname {
+	font-size: 14px;
+	font-family: "Raleway-Medium";
+	color: #808285;
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#founder_ceo {
+	font-size: 14px;
+	font-family: "Raleway-Bold";
+	color: #808285;
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+/* -------- final cta -------- */
+
+
+#final_cta {
+	height: 362px;
+	background-color: #333333;
+}
+
+#if_youre_looking {
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 113px;
+}
+
+#if_youre_looking p {
+	font-size: 24px;
+	font-family: "UtopiaStd-Disp";
+	color: white;
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+#contactus_today {
+	padding-top: 24px;
+	padding-left: 34px;
+	padding-right: 34px;
+}
+
+#contactus_today a {
+	color: white;
+}
+
+#contactus_today_link {
+	background-color: #ffac32;
+  	padding-bottom: 26px;
+  	padding-right: 63px;
+	padding-left: 64px;
+	padding-top: 24px;
+}
+
+#contactus_today_link p {
+	font-size: 14px;
+	font-family: "Raleway-Bold";
+	color: white;
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+
+/* -------- footer -------- */
+
+
+footer {
+	height: 300px;
+	background-color: #005a8e;
+}
+
+#nav_bar_footer {
+	padding-top: 97;
+}
+
+#nav_bar_footer ul {
+	list-style-type: none;
+}
+
+#nav_bar_footer ul li {
+	text-decoration: none;
+	font-size: 15px;
+	font-family: "Raleway-Bold";
+	color: #8ba7bf;
+	margin-bottom: 8px;
+}
+
+#social {
+	padding-top: 120px;
+}
+
+#facebook {
+	padding-top: 58px;
+	background-image: url(../img/facebook.png);
+	background-repeat: no-repeat;
+}
+
+#twitter {
+  	padding-top: 58px;
+	background-image: url(../img/twitter.png);
+	background-repeat: no-repeat;
+}
+
+#call_now_row {
+  padding-left: 136px;
+}
+
+#call_now {
+	padding-top: 115px;
+  	width: 100px;
+}
+
+#call_now p{
+	font-size: 12px;
+	font-family: "Raleway-Bold";
+	color: white;
+	text-align: center;
+}
+
+#number {
+	  width: 199px;
+}
+
+#number_row {
+  	padding-left: 83px;
+}
+
+#number p{
+	font-size: 30px;
+	font-family: "UtopiaStd-Disp";
+	color: #ffac32;
+}
+
+#who_we_are {
+	padding-top: 65px;
+}
+
+#who_we_are p{
+	font-size: 14px;
+	font-family: "Raleway-Bold";
+	color: white;
+}
+
+#global_turn {
+	padding-top: 10px;
+}
+
+#global_turn p {
+	font-size: 13px;
+	font-family: "Raleway-Bold";
+	color: white;
+}
+
+#engineer {
+	padding-top: 10px;
+}
+
+#engineer ul {
+	list-style-type: square;
+  	padding-left: 15px;
+}
+
+#engineer ul li {
+	font-size: 12px;
+	font-family: "Raleway-Bold";
+	color: #ffac32;	
+	text-decoration: underline;
+}
+
+/* -------- Home Page -------- */
+/* --------------------------- */
+
+
+
+/* -------- About Page -------- */
+/* ---------------------------- */
+
+/* -------- header -------- */
+
+
+#header_about	{
+	height: 174px;
+	background-image: url(../img/layer_3.png);
+	background-position: 0px -227px;
+}
+
+/* -------- sub-header -------- */
+
+#sub_header {
+	height: 152px;
+	background-color: #f5f5f5;
+}
+
+#about_us {
+	padding-top: 48px;
+  	height: 100px;
+
+}
+
+#about_us p{
+	font-family: "UtopiaStd-Disp";
+	font-size: 45px;
+	color: #005a8e;
+	margin-top: 0px;
+}
+
+#home_aboutus p{
+	display: inline;
+}
+
+#home_aboutus_home {
+	font-family: "Raleway-Light";
+	font-size: 14px;
+	color: #005a8e;
+}
+
+#home_aboutus_about {
+	font-family: "Raleway-Light";
+	font-size: 14px;
+	color: #999999;
+}
+
+/* -------- content -------- */
+
+#content {
+	height: 1468px;
+}
+
+#about_gtks_title {
+  	padding-left: 0px;
+	padding-top: 49px;
+}
+
+#about_gtks_title p {
+	font-family: "UtopiaStd-Disp";
+	font-size: 24px;
+	color: #333333;	
+}
+
+#history_list {
+	padding-left: 0px;
+	padding-top: 22px;
+  	padding-right: 66px;
+}
+
+#history_list ul {
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+#history_list ul li {
+	font-family: "Raleway-Light";
+	font-size: 14px;
+	color: #005a8e;
+  	margin-bottom: 17px;
+}
+
+#we_are_proud {
+	background-image: url(../img/vector_smart_object2.png);
+	background-repeat: no-repeat;
+	background-position: 600 193;
+}
+
+#we_are_proud_title {
+	padding-top: 49px;
+  	padding-right: 155px;
+}
+
+#we_are_proud_title p {
+	font-family: "UtopiaStd-Disp";
+	font-size: 45px;
+	color: #333333;	
+}
+
+#placeholder {
+	background-color: #005a8e;
+	z-index: -1;
+}
+
+#placeholder p{
+	padding-top: 110px;
+	padding-left: 277px;
+	padding-right: 457px;
+	padding-bottom: 97px;
+  	margin-bottom: 0px;
+  	color: white;
+  	font-size: 14px;
+  	font-family: "UtopiaStd-Disp";
+}
+
+#this_milestone {
+	padding-top: 54px;
+	padding-right: 82px;
+}
+
+#milestone {
+	font-family: "Raleway-Bold";
+	font-size: 14px;
+	color: #999999;
+}
+
+#paragraph {
+	font-family: "Raleway-Medium";
+	font-size: 14px;
+	color: #999999;
+}
+
+#title {
+	font-family: "UtopiaStd-Disp";
+	font-size: 30px;
+	color: #005a8e;	
+}
+
+
+/* -------- About Page -------- */
+/* ---------------------------- */
+
+
+/* -------- Services Page -------- */
+/* ------------------------------- */
+
+
+#content2 {
+	height: 1141px;
+}
+
+#vector_smart2 {
+	position: absolute;
+  	padding-top: 600px;
+  	padding-left: 312px;
+}
+
+#we_are_proud_title_2{
+	padding-top: 49px;
+  	padding-right: 81px;
+}
+
+#we_are_proud_title_2 p {
+	font-family: "UtopiaStd-Disp";
+	font-size: 45px;
+	color: #333333;	
+}
+
+#you_can_count {
+	padding-top: 30px;
+	padding-right: 82px;
+}
+
+#you_can {
+	font-family: "Raleway-Bold";
+	font-size: 14px;
+	color: #999999;
+  	padding-right: 58px;
+}
+
+#our_main {
+	font-family: "Raleway-Medium";
+	font-size: 14px;
+	color: #999999;
+}
+
+#aside_list {
+	padding-top: 94px;
+  	padding-left: 0px;
+}
+
+#aside_list_title {
+	font-family: "Raleway-Bold";
+	font-size: 15px;
+	color: #005a8e;
+  	margin-bottom: 0px;	
+}
+
+#aside_list_list {
+	font-family: "Raleway-Medium";
+	font-size: 14px;
+	color: #999999;
+  	margin-bottom: 0px;
+}
+
+#engineering_project {
+  	width: 350px;
+}
+
+#commissioning_and {
+  	width: 350px;
+}
+
+#general_contracting {
+  	width: 229px;
+}
+
+/* -------- Services Page -------- */
+/* ------------------------------- */
+
+
+
+/* -------- Blog Page -------- */
+/* --------------------------- */
+
+
+#content3 {
+	height: 1393px;
+}
+
+#posts {
+	margin-bottom: 31px;
+}
+
+#picture_blog {
+	background-image: url(../img/square_blog.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+  	padding-top: 224px;
+  	margin-top: 50px;
+}
+
+#post_title{
+	padding-top: 49px;
+  	padding-right: 81px;
+}
+
+#post_title p {
+	font-family: "UtopiaStd-Disp";
+	font-size: 45px;
+	color: #003366;	
+	margin-bottom: 0px;
+}
+
+
+#post_content {
+	padding-top: 27px;
+	padding-right: 210px;
+}
+
+#post_content p{
+	font-family: "Raleway-Medium";
+	font-size: 14px;
+	color: #999999;
+}
+
+#calendar_comments {
+	height: 28px;
+  	padding-top: 6px;
+  	background-image: url(../img/calendar_blog.png),url(../img/comment_blog.png);
+  	background-repeat: no-repeat;
+  	background-position: 1px 4px,130px 4px;
+}
+
+#calendar_comments p {
+	font-family: "Raleway-Medium";
+	display: inline;
+	font-size: 12px;
+	color: #999999;
+	padding-top: 
+}
+
+#calendar {
+	margin-left: 25px;
+}
+
+#comments {
+	margin-left: 40px;
+}
+
+#read_more a{
+	color: #ffac32;
+}
+
+#read_more p{
+	font-size: 14px;
+	font-family: "Raleway-Bold";
+	color: #ffac32;
+	text-decoration: none;
+	padding-top: 10px;
+}
+
+/* -------- Blog Page -------- */
+/* --------------------------- */
+
+
+/* -------- Contact Page -------- */
+/* ------------------------------ */
+
+#content4 {
+	height: 1264px;
+}
+
+#contactnumber_map {
+	padding-top: 42px;
+}
+
+#ontact_number {
+	padding-top: 15px;
+}
+
+#name_contact {
+	font-family: "Raleway-Bold";
+	font-size: 14px;
+	color: #999999;
+	margin-bottom: 0px;
+}
+
+#information_content {
+	font-family: "Raleway-Medium";
+	font-size: 14px;
+	color: #999999;
+	margin-bottom: 0px;
+}
+
+#map {
+	height: 506px;
+	padding-top: 138px;
+	padding-left: 195px;
+	background-image: url(../img/bulle_adress.png),url(../img/map.png);
+	background-repeat: no-repeat;
+	background-position: 119px 106px, 0 0;
+}
+
+#map a{
+	color: #ffac32;
+}
+
+#global_turn_key {
+	font-family: "Raleway-Bold";
+	font-size: 18px;
+	color: #005a8e;
+	margin-bottom: 0px;
+}
+
+#map_content {
+	font-family: "Raleway-Light";
+	font-size: 14px;
+	color: #999999;
+	margin-bottom: 0px;	
+}
+
+#view_in_google {
+	font-family: "Raleway-Bold";
+	font-size: 12px;
+	color: #ffac32;
+	margin-top: 5px;
+	width: 124px;
+	margin-right: 0px !important;
+}
+
+#please_complete {
+	padding-top: 20px;
+}
+
+#please_complete p {
+	font-family: "Raleway-Medium";
+	font-size: 14px;
+	color: #999999;
+}
+
+#form {
+	padding-top: 35px;
+}
+
+#form_text {
+	height: 45px;
+	width: 543px;
+	margin-top: 10px;
+	margin-right: 20px;
+}
+
+#message {
+	height: 161px;
+  	width: 1110px;
+  	margin-top: 10px;
+  	border-color: #999999;
+  	resize :none;
+}
+
+#submit {
+	width: 201px;
+  	height: 65px;
+  	padding-top: 0px;
+  	padding-bottom: 0px;
+  	padding-left: 0px;
+  	padding-right: 0px;
+  	margin-top: 30px;
+  	background-color: #333333;
+  	color: white;
+  	border: 0px;
+}
+
+
+/* -------- Contact Page -------- */
+/* ------------------------------ */
+
+
+/* -------- Medium Skin -------- */
+/* ----------------------------- */
+
+
+
+}
+
+
+/* -------- fonts -------- */
+
+@font-face {
+    font-family: "Raleway";
+    src: url(Raleway-Bold.ttf);
+    src: url(Raleway-ExtraBold.ttf);
+    src: url(Raleway-ExtraLight.ttf);
+    src: url(Raleway-Heavy.ttf);
+    src: url(Raleway-Light.ttf);
+    src: url(Raleway-Medium.ttf);
+    src: url(Raleway-SemiBold.ttf);
+    src: url(Raleway-Thin.ttf);
+}
+
+@font-face {
+    font-family: "Utopia Std Display";
+    src: url(UtopiaStd-BoldCaptIt.otf);
+    src: url(UtopiaStd-BoldDispIt.otf);
+    src: url(UtopiaStd-BoldIt.otf);
+    src: url(UtopiaStd-BoldSubh.otf);
+    src: url(UtopiaStd-BoldSubhIt.otf);
+    src: url(UtopiaStd-Capt.otf);
+    src: url(UtopiaStd-CaptIt.otf);
+    src: url(UtopiaStd-Disp.otf);
+    src: url(UtopiaStd-DispIt.otf);
+    src: url(UtopiaStd-Italic.otf);
+    src: url(UtopiaStd-Regular.otf);
+    src: url(UtopiaStd-SemiboldDisp.otf);
+    src: url(UtopiaStd-SemiboldDispIt.otf);
+    src: url(UtopiaStd-SemiboldIt.otf);
+   }
+
+

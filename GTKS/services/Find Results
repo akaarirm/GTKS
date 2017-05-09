@@ -1,0 +1,23 @@
+Searching 2 files for "if_youre"
+
+/Users/sami/Documents/Highness Digital/Projects/GTKS/assets/css/main.css:
+  248  }
+  249  
+  250: #if_youre_looking {
+  251  	padding-left: 0px;
+  252  	padding-right: 0px;
+  ...
+  254  }
+  255  
+  256: #if_youre_looking p {
+  257  	font-size: 24px;
+  258  	font-family: "UtopiaStd-Disp";
+
+/Users/sami/Documents/Highness Digital/Projects/GTKS/assets/css/medium.css:
+   13  }
+   14  
+   15: #if_youre_looking {
+   16  	
+   17  }
+
+3 matches across 2 files
